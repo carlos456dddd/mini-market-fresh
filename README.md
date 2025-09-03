@@ -21,3 +21,12 @@ Proyecto académico que implementa una arquitectura de microservicios con:
 git clone https://github.com/tu-usuario/mini-market.git
 cd mini-market
 docker-compose up --build
+```
+
+## 🔍 Endpoints
+| Servicio | URL                              |
+| -------- | -------------------------------- |
+| Gateway  | <http://localhost:3000>          |
+| Users    | <http://localhost:3000/users>    |
+| Products | <http://localhost:3000/products> |
+
