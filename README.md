@@ -15,3 +15,9 @@ Proyecto académico que implementa una arquitectura de microservicios con:
 - PostgreSQL
 - Prisma ORM
 - Git + GitHub Actions (pronto)
+
+## 🏁 Levantar todo
+```bash
+git clone https://github.com/tu-usuario/mini-market.git
+cd mini-market
+docker-compose up --build
